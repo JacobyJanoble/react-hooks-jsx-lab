@@ -2,7 +2,7 @@ import React from "react";
 import { name, city } from "../data/data.js";
 
 const divStyle = {
-  color: 'fireblock'
+  color: "firebrick"
 }
 
 function Home() {
